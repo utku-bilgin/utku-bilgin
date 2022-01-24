@@ -6,7 +6,7 @@
 <h3 align="center">A frontend developer from Istanbul/Turkey</h3>
 
 
-<div style="display:flex; width: 100%; justify-content:center">
+<div style="display:block;text-align:center">
     <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
 </div>
 
