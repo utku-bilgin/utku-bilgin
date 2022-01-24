@@ -6,7 +6,9 @@
 <h3 align="center">A frontend developer from Istanbul/Turkey</h3>
 
 
-<span style="display:flex; text-align:center"><img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" /></sp>
+<div style="display:flex; justify-content:center">
+    <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
