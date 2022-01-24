@@ -22,5 +22,5 @@
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/utku-bilgin?style=social">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/utku-bilgin/utku-bilgin?style=social">
+
 
