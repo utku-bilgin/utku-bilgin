@@ -17,4 +17,4 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/utku-bilgin?style=social">
 
-<embed src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+<img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
