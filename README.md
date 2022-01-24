@@ -5,6 +5,8 @@
 
 <h3 align="center">A frontend developer from Istanbul/Turkey</h3>
 
+<img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" justify-content="center"">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/utkubilgin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkubilgin/" height="30" width="40" /></a>
@@ -17,5 +19,4 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/utku-bilgin?style=social">
 
-<img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" style="display: flex;
-  justify-content: center;">
+
