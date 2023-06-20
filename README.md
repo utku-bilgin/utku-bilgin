@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Utku Bilgin
 </h1>
 
-<h3 align="center">A frontend developer from Istanbul/Turkey</h3>
+<h3 align="center">A Full Stack Developer from Istanbul/Turkey</h3>
 
 <br>
 
