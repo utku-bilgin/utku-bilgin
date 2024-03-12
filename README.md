@@ -61,6 +61,8 @@
 
 </p>
 
+<img src="https://raw.githubusercontent.com/utku-bilgin/utku-bilgin/output/snake.svg" alt="Snake animation" />
 
+###
 
 
