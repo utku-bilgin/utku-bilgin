@@ -56,10 +56,6 @@
 <p>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/utku-bilgin?style=social">
 </p>
-<br />
-<p>
-    <img src="https://raw.githubusercontent.com/utku-bilgin/utku-bilgin/output/snake.svg" alt="Snake animation" />
-</p>
-###
+
 
 
